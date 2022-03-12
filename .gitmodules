@@ -6,4 +6,4 @@
         url = https://github.com/mikebrady/alac.git                         
 [submodule "vendor/valgrind"]
         path = vendor/valgrind
-        url = https://sourceware.org/git/valgrind.git                                      
+        url = http://repo.or.cz/valgrind.git                                   
